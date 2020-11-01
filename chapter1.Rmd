@@ -13,7 +13,9 @@
 title: "Course introduction"
 output: html_document
 ---
-
-The text continues here.
 For me, the course looks interesting and challenging and important for me. I am looking forward to the advanced and serious contents of it. During this course, I expect I will learn how to use R-studio and GitHub and how they can be used to analyze big datasets. I knew about the course through university course page for doctoral students. The link to my GitHub repository is attached here:
-[link](https://github.com/RashmiShrestha-6091/IODS-project)
+[Github-repo](https://github.com/RashmiShrestha-6091/IODS-project)
+
+- list 1
+- list 2
+- list 3
